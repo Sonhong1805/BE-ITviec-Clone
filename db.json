@@ -3355,7 +3355,7 @@
         "label": "Tại văn phòng"
       },
       "type": "product",
-      "thumbnail": "src/assets/images/integro-technologies-logo.jpg",
+      "thumbnail": "/assets/images/integro-technologies-logo.jpg",
       "model": "Sản phẩm",
       "companySize": "151-300 nhân viên",
       "country": "Việt Nam",
@@ -3397,7 +3397,7 @@
       "name": "TKG VIETNAM",
       "email": "tkg@gmail.com",
       "password": "Tkgvietnam_1w0wEpfs",
-      "thumbnail": "src/assets/images/TKG_BLACK.jpg",
+      "thumbnail": "/assets/images/TKG_BLACK.jpg",
       "address": ["Hồ Chí Minh"],
       "formOfWork": {
         "value": "office",
@@ -3446,7 +3446,7 @@
         "value": "office",
         "label": "Tại văn phòng"
       },
-      "thumbnail": "src/assets/images/SGITS-Logo.png",
+      "thumbnail": "/assets/images/SGITS-Logo.png",
       "type": "product",
       "model": "Sản phẩm",
       "companySize": "1-50 nhân viên",
@@ -3482,7 +3482,7 @@
       "email": "tlabwest@gmail.com",
       "password": "Tlabwestvietnam_8lRwD7",
       "address": ["Hồ Chí Minh"],
-      "thumbnail": "src/assets/images/TLAB-WEST-Logo.png",
+      "thumbnail": "/assets/images/TLAB-WEST-Logo.png",
       "formOfWork": {
         "value": "office",
         "label": "Tại văn phòng"
@@ -3521,7 +3521,7 @@
       "email": "thankslab@gmail.com",
       "password": "thankslabvietnam_ZEFJBbr",
       "address": ["Hồ Chí Minh"],
-      "thumbnail": "src/assets/images/Thankslab-Logo.png",
+      "thumbnail": "/assets/images/Thankslab-Logo.png",
       "formOfWork": {
         "value": "flexible",
         "label": "Linh hoạt"
@@ -3576,7 +3576,7 @@
         "value": "flexible",
         "label": "Linh hoạt"
       },
-      "thumbnail": "src/assets/images/DEK-Logo.png",
+      "thumbnail": "/assets/images/DEK-Logo.png",
       "type": "outsource",
       "model": "Dịch vụ",
       "companySize": "501-1000 nhân viên",
@@ -3616,7 +3616,7 @@
         "value": "office",
         "label": "Tại văn phòng"
       },
-      "thumbnail": "src/assets/images/kms-technology-logo.png",
+      "thumbnail": "/assets/images/kms-technology-logo.png",
       "type": "outsource",
       "model": "Dịch vụ",
       "companySize": "1000+ nhân viên",
@@ -3667,7 +3667,7 @@
         "value": "flexible",
         "label": "Linh hoạt"
       },
-      "thumbnail": "src/assets/images/NEC-Logo.png",
+      "thumbnail": "/assets/images/NEC-Logo.png",
       "type": "outsource",
       "model": "Dịch vụ",
       "companySize": "151-300 nhân viên",
@@ -3710,7 +3710,7 @@
         "value": "flexible",
         "label": "Linh hoạt"
       },
-      "thumbnail": "src/assets/images/HBS-Logo.jpg",
+      "thumbnail": "/assets/images/HBS-Logo.jpg",
       "type": "product",
       "model": "Sản phẩm",
       "companySize": "51-150 nhân viên",
@@ -3757,7 +3757,7 @@
         "value": "office",
         "label": "Tại văn phòng"
       },
-      "thumbnail": "src/assets/images/MB-Logo.png",
+      "thumbnail": "/assets/images/MB-Logo.png",
       "type": "product",
       "model": "Sản phẩm",
       "companySize": "1000+ nhân viên",
@@ -3804,7 +3804,7 @@
         "value": "remote",
         "label": "Làm từ xa"
       },
-      "thumbnail": "src/assets/images/VN-LAB-Logo.png",
+      "thumbnail": "/assets/images/VN-LAB-Logo.png",
       "type": "product",
       "model": "Sản phẩm",
       "companySize": "1-50 nhân viên",
@@ -3838,7 +3838,7 @@
         "value": "flexible",
         "label": "Linh hoạt"
       },
-      "thumbnail": "src/assets/images/nab-logo.jpg",
+      "thumbnail": "/assets/images/nab-logo.jpg",
       "type": "product",
       "model": "Sản phẩm",
       "companySize": "1000+ nhân viên",
@@ -3874,7 +3874,7 @@
         "value": "office",
         "label": "Tại văn phòng"
       },
-      "thumbnail": "src/assets/images/FSOFT-Logo.png",
+      "thumbnail": "/assets/images/FSOFT-Logo.png",
       "type": "service",
       "model": "Dịch vụ và Tư vấn giải pháp",
       "companySize": "1000+ nhân viên",
@@ -3911,7 +3911,7 @@
         "value": "office",
         "label": "Tại văn phòng"
       },
-      "thumbnail": "src/assets/images/techcombank-logo.png",
+      "thumbnail": "/assets/images/techcombank-logo.png",
       "type": "product",
       "model": "Sản phẩm",
       "companySize": "1000+ nhân viên",
@@ -3946,7 +3946,7 @@
         "value": "office",
         "label": "Tại văn phòng"
       },
-      "thumbnail": "src/assets/images/Viettel-logo.jpg",
+      "thumbnail": "/assets/images/Viettel-logo.jpg",
       "type": "product",
       "model": "Sản phẩm",
       "companySize": "1000+ nhân viên",
